@@ -15,7 +15,7 @@
 
 
 #レポート  
-* [2016/10/5 講義分](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/blob/master/report_bye_switch.md "2016/10/5 講義分")   
+* [2016/10/5 講義分](https://github.com/handai-trema/hello-trema-Shu-NISHIKORI/tree/master/reports/20161005 "2016/10/5 講義分")   
 
 
 #備考  
